@@ -1,1 +1,1 @@
-
+import { PillProps } from "@/interfaces";
